@@ -1,0 +1,7 @@
+How can you use the staging area to make sure you have one commit per logical change?
+
+Just add the files that are associated with the logical change to the staging area, and then commit that "logical change".  For the next logical change we'd want to add those files to the staging area and then commit that logical change.
+
+There seems to be a limitatio here where we need to save the files for each logical change.  Then commit, and then re-open those files if a different logical change requires editing of the same fileset.
+
+
