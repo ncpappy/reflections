@@ -1,0 +1,10 @@
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+
+1.  If there was a bug and multiple attempts to fix the bug were being pursued in parallel.  This would help when the best known fix was developed we could then merge back to the "master" and keep moving forward after the problem was solved.
+
+2.  If an experimental feature was being developed, this could also be done on a branch and if we liked the feature it could then be merged.
+
+
+
+
