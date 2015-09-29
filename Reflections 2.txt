@@ -1,0 +1,5 @@
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+This pracice would allow me to look over time at the transformation and morphing of the file into what it eventually became.  If there were bugs entered it would be easy to revert to older versions, ones that didn't have the bug, without losing the good parts of the code that were developed around the time the bug was entered.
+
+

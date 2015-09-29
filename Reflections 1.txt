@@ -1,0 +1,8 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+Looking through the a thousand lines of code is very problematic for humans to do but computers are obviously good at it.
+
+Since we new the original copy of the file was working without bugs, looking at the diff or fc output was useful because we were able to effectively and quickly filter out the good code from the bad.  From there all we had to do was look at the code that is labeled unique to the new file, the one with the bug.
+
+Good use of a computer to parse the text and make it easier for humans to look at the pieces we need to focus our attention on.
+

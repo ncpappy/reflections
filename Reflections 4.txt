@@ -1,0 +1,5 @@
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+I think this is related to the limitations of the client's platform protocols being used by others like Google Docs.  I know that CVS and SVN have the context of Repositories but Google Docs may be more tied to the HTTP(s) protocols and thus may have some context struggles as a result of the protocols.
+
+
