@@ -1,0 +1,5 @@
+How do the diagrams help you visualize the branch structure?
+
+It helps to see the sequence of the commits that make up any specific branch as well as the roots of the brances, or where they forked from.  It also helps to understand where to merge at as I'm sure we'll see in the following lesson.
+
+
