@@ -1,0 +1,4 @@
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+
+The commits in the previously parallel branches are integrated together and the history of those associated commits.  
