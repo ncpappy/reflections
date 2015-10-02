@@ -1,0 +1,6 @@
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+
+It can cause some problems as it's updating the text content of the file.  Cleaning this up may cause problems as I found out first-hand in this instructional exercise.
+
+But if there are no conflicts, this is nice.
