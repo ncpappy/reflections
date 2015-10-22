@@ -1,0 +1,6 @@
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+
+Pulling changes from a remote repository manually is good because sometimes the machine with the local repository may not have network connectivity.  Also I might be in the middle of making changes to the local repository and not ready to commit those, or have Git overwrite those with an "automated pull".
+
+Manually pulling and pushing changes are both good for the reasons stated above.
+
