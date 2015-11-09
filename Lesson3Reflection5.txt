@@ -1,0 +1,7 @@
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+I would have to wait for others to save the file we are storing on a central repository or file server.  Otherwise we could use SVN or CVS, etc...
+
+
+
