@@ -1,0 +1,9 @@
+What is the benefit of having a copy of the last known state of the 
+remote stored locally?
+
+The benefit of having a copy of the last known state of the remote 
+stored locally is to have a point of reference of where my current 
+local copy came from.  This allows for other commits to be made to 
+the respective repository on Git Hub while my local copy has a means 
+to understand the changes since the last sync.
+
