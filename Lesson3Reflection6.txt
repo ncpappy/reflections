@@ -1,0 +1,7 @@
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+Using a separate branch is good when I'm doing something that is experimental or perhaps I would like some feedback on from peer or collaborators before commiting to the master branch.
+
+Using branches in this way may create more room for content conflicts especially if the branch is kept out of the master "stream" for a length of time.  
+
+Doing changes on the master branch may upset collaborators or introduce unstable features.
