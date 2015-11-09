@@ -1,0 +1,15 @@
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+fork - a copy of a pre-existing repository but one that creates its own head, this head will have a reference back to the parent repository but otherwise is a standalone repository
+
+clone - a copy of the pre-existing repository with a direct link to the parent
+
+branch - a part of a pre-existing repository that can be merged in the future if needed
+
+A fork would be done to make use of someone's pre-existing repository but otherwise does not intend on merging in the future
+
+A clone would be used to checkout the repository but also be able to commit changes to the parent???  (not sure about this one)
+
+A branch is used for times when experimental changes to the repository content would be done and eventually merged back into the master copy of the repository or possibly tossed out if the experiment wasn't a success
+
+
